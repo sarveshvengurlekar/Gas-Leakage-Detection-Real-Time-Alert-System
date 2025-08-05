@@ -1,7 +1,8 @@
 
 # Gas-Leakage-Detection-Real-Time-Alert-System
 
-![Project Preview](Gas-Leakage-Detection-Real-Time-Alert-System/Project_Preview.jpg)
+![Project Preview](./Project_Preview.jpg)
+
 
 
 An industrial-grade safety system designed to detect gas leaks and trigger immediate multi-channel alerts using ESP8266, MQ-5 gas sensor, and Twilio API integration.
