@@ -1,6 +1,9 @@
 
 # Gas-Leakage-Detection-Real-Time-Alert-System
 
+![Project Badge](https://img.shields.io/badge/Project-IoT-brightgreen)
+![License Badge](https://img.shields.io/badge/License-MIT-blue)
+
 ![Project Preview](./Project_Preview.jpg)
 
 
